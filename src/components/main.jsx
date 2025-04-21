@@ -23,7 +23,7 @@ const Home = () => {
     <div className="col-md-6 p-0 d-none d-sm-block">
       <img
         className="img-fluid w-100 h-100 rounded-0"
-        src="./assets/main.png"
+        src="./assets/img/main.png"
         alt="Card"
         style={{ objectFit: 'cover' }}
       />
